@@ -1,0 +1,10 @@
+body{
+    background-color: #003040;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div#me{
+    color: #f7a894;
+}
